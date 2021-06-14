@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T14:53:46.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="yKLpfFgp7TEuRoFR0xsL" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-14T14:54:18.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="TWVuhVwV7relQTAURH3d" version="14.7.7" type="github">
   <diagram id="I7mEjWJnaq-HnaZsejRt" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,13 +19,13 @@
         <mxCell id="ejswznmBB4IMKi-Nq_0j-6" value="Scaffold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="100" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ejswznmBB4IMKi-Nq_0j-8" value="Scaffold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ejswznmBB4IMKi-Nq_0j-8" value="Color" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="230" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ejswznmBB4IMKi-Nq_0j-9" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="120" width="133" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ejswznmBB4IMKi-Nq_0j-17" value="Scaffold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ejswznmBB4IMKi-Nq_0j-17" value="Center" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="230" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ejswznmBB4IMKi-Nq_0j-30" value="AppBar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
